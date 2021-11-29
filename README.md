@@ -1,2 +1,1 @@
-# ameyasgidh.github.io
-My website personal
+# Simple Demo (without project photos)
